@@ -1,4 +1,4 @@
-# Kalkulator - instrukcja obslugi
+# Kalkulator - instrukcja obslugi 2
 Projekt Kalkulatora. Nauka gita.
 
 To jest pierwszy commit ktory ma trafic na galaz_testowa_1.
